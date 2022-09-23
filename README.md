@@ -7,3 +7,7 @@ Removing duplicates from an array with O(1) space complexity
 Day 2
 Challenge 2
 Remove an element in an array with O(1) space complexity
+
+Day 3
+Challenge 3
+Check if an integer is a palindrome
