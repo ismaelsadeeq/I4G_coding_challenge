@@ -11,3 +11,7 @@ Remove an element in an array with O(1) space complexity
 Day 3
 Challenge 3
 Check if an integer is a palindrome
+
+Day 4
+Challenge 4
+Print in order
