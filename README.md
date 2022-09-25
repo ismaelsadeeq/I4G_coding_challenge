@@ -15,3 +15,7 @@ Check if an integer is a palindrome
 Day 4
 Challenge 4
 Print in order
+
+Day 5
+Challenge 5
+Sort String based on frequency
