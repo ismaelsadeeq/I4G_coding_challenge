@@ -19,3 +19,7 @@ Print in order
 Day 5
 Challenge 5
 Sort String based on frequency
+
+Day 6
+Challenge 6
+FizzBuzz Multi threading
