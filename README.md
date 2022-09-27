@@ -23,3 +23,7 @@ Sort String based on frequency
 Day 6
 Challenge 6
 FizzBuzz Multi threading
+
+Day 7
+Challenge 7
+UTF-8 Validation
