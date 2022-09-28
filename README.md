@@ -27,3 +27,7 @@ FizzBuzz Multi threading
 Day 7
 Challenge 7
 UTF-8 Validation
+
+Day 8
+Challenge 8
+SQL Combine two tables
