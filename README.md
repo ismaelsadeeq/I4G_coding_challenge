@@ -35,3 +35,8 @@ SQL Combine two tables
 Day 9
 Challenge
 Merge K sorted arrays
+
+
+Day 10
+Challenge 
+Valid Number
