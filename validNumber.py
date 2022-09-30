@@ -1,4 +1,4 @@
-def isNumber(self, s: str) -> bool:
+def isNumber(self, s):
     for c,ss in enumerate(s):
         if ss in "eE":
             break 
